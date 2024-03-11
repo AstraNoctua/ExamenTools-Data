@@ -61,6 +61,3 @@ origin = post_response["origin"]
 
 print(post_response)
 print(f"Je IP-adres is {origin}")
-
-
-DIT IS EEN TEST 
